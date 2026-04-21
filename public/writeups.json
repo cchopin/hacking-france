@@ -1,47 +1,200 @@
 [
   {
-    "slug": "writeup/vulnlab/baby-easy",
+    "slug": "writeup/hackthebox/machines/conversor",
+    "title": "Conversor",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:40:17.919Z"
+  },
+  {
+    "slug": "writeup/hackthebox/challenges/baby",
     "title": "Baby",
-    "platform": "VulnLab"
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:40:09.459Z"
   },
   {
-    "slug": "writeup/vulnlab/baby2-Medium",
-    "title": "baby2",
-    "platform": "VulnLab"
+    "slug": "writeup/hackthebox/challenges/wide",
+    "title": "Wide",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:40:05.928Z"
   },
   {
-    "slug": "writeup/vulnlab/bamboo",
-    "title": "bamboo",
-    "platform": "VulnLab"
+    "slug": "writeup/hackthebox/machines/monitorsfour",
+    "title": "MonitorsFour",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:39:42.936Z"
   },
   {
-    "slug": "writeup/vulnlab/Down-Easy",
-    "title": "Down",
-    "platform": "VulnLab"
+    "slug": "writeup/hackthebox/machines/base",
+    "title": "Base",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:39:06.323Z"
+  },
+  {
+    "slug": "writeup/hackthebox/machines/markup",
+    "title": "Markup",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:38:48.589Z"
+  },
+  {
+    "slug": "writeup/hackthebox/sherlocks/aotr",
+    "title": "AoTR",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:38:42.227Z"
+  },
+  {
+    "slug": "writeup/hackthebox/challenges/hunting-license",
+    "title": "Hunting License",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:38:28.088Z"
+  },
+  {
+    "slug": "writeup/hackthebox/machines/cap",
+    "title": "Cap",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:37:58.019Z"
+  },
+  {
+    "slug": "writeup/hackthebox/machines/oopsie",
+    "title": "Oopsie",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:37:50.564Z"
+  },
+  {
+    "slug": "writeup/hackthebox/machines/included",
+    "title": "Included",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:34:55.807Z"
+  },
+  {
+    "slug": "writeup/hackthebox/machines/vaccine",
+    "title": "Vaccine",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:33:56.929Z"
+  },
+  {
+    "slug": "writeup/hackthebox/sherlocks/ruse",
+    "title": "Ruse",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:31:31.213Z"
+  },
+  {
+    "slug": "writeup/hackthebox/challenges/flag-casino",
+    "title": "FlagCasino",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:31:20.869Z"
+  },
+  {
+    "slug": "writeup/hackthebox/machines/unified",
+    "title": "Unified",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:31:15.307Z"
+  },
+  {
+    "slug": "writeup/hackthebox/machines/bike",
+    "title": "Bike",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:30:48.031Z"
+  },
+  {
+    "slug": "writeup/hackthebox/challenges/shattered-tablet",
+    "title": "Shattered Tablet",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:30:43.097Z"
+  },
+  {
+    "slug": "writeup/hackthebox/sherlocks/crashdump",
+    "title": "CrashDump",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:30:26.915Z"
+  },
+  {
+    "slug": "writeup/hackthebox/machines/archetype",
+    "title": "Archetype",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:30:13.861Z"
+  },
+  {
+    "slug": "writeup/hackthebox/challenges/blacksmith",
+    "title": "Blacksmith",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:30:11.688Z"
+  },
+  {
+    "slug": "writeup/hackthebox/sherlocks/mangobleed",
+    "title": "MangoBleed",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:29:38.715Z"
+  },
+  {
+    "slug": "writeup/hackthebox/machines/lame",
+    "title": "Lame",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:29:35.591Z"
+  },
+  {
+    "slug": "writeup/hackthebox/challenges/simple-encryptor",
+    "title": "Simple Encryptor",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:29:14.088Z"
+  },
+  {
+    "slug": "writeup/hackthebox/sherlocks/phishnet",
+    "title": "PhishNet",
+    "platform": "HackTheBox",
+    "updated": "2026-02-13T20:29:08.865Z"
   },
   {
     "slug": "writeup/vulnlab/forgotten-easy",
     "title": "Forgotten",
-    "platform": "VulnLab"
+    "platform": "VulnLab",
+    "updated": "2026-02-13T20:17:05.547Z"
   },
   {
     "slug": "writeup/vulnlab/lock-easy",
     "title": "Lock",
-    "platform": "VulnLab"
+    "platform": "VulnLab",
+    "updated": "2026-02-13T20:17:05.547Z"
   },
   {
     "slug": "writeup/vulnlab/manage-easy",
     "title": "Manage",
-    "platform": "VulnLab"
+    "platform": "VulnLab",
+    "updated": "2026-02-13T20:17:05.547Z"
   },
   {
     "slug": "writeup/vulnlab/retro-easy",
     "title": "Retro",
-    "platform": "VulnLab"
+    "platform": "VulnLab",
+    "updated": "2026-02-13T20:17:05.547Z"
   },
   {
     "slug": "writeup/vulnlab/sync-easy",
     "title": "Sync",
-    "platform": "VulnLab"
+    "platform": "VulnLab",
+    "updated": "2026-02-13T20:17:05.547Z"
+  },
+  {
+    "slug": "writeup/vulnlab/Down-Easy",
+    "title": "Down",
+    "platform": "VulnLab",
+    "updated": "2026-02-13T20:17:05.546Z"
+  },
+  {
+    "slug": "writeup/vulnlab/baby-easy",
+    "title": "Baby",
+    "platform": "VulnLab",
+    "updated": "2026-02-13T20:17:05.546Z"
+  },
+  {
+    "slug": "writeup/vulnlab/baby2-Medium",
+    "title": "baby2",
+    "platform": "VulnLab",
+    "updated": "2026-02-13T20:17:05.546Z"
+  },
+  {
+    "slug": "writeup/vulnlab/bamboo",
+    "title": "bamboo",
+    "platform": "VulnLab",
+    "updated": "2026-02-13T20:17:05.546Z"
   }
 ]
